@@ -3,7 +3,7 @@ The Divide and conquer algorithm to compute a staircase of a set of points, P.
 
 # Problem Statement
 
-(“Staircase / Pareto-optimal points”) Let P be a set of n points in a 2-dimensional plane. A point p ϵ P is Pareto-optimal if no other point is both above and to the right of p. The sorted sequence of Pareto-optimal points describes a top-right staircase with the interior points of P below and to the left of the staircase. We want to compute this staircase. 
+**(“Staircase / Pareto-optimal points”)** Let P be a set of n points in a 2-dimensional plane. A point p ϵ P is Pareto-optimal if no other point is both above and to the right of p. The sorted sequence of Pareto-optimal points describes a top-right staircase with the interior points of P below and to the left of the staircase. We want to compute this staircase. 
 
 Describe a divide-and-conquer algorithm to compute the staircase of P in O (n log n) time.
 
